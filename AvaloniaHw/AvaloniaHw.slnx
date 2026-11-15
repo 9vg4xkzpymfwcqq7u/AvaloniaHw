@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AvaloniaHw.Android/AvaloniaHw.Android.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="AvaloniaHw.Desktop/AvaloniaHw.Desktop.csproj" />
+  <Project Path="AvaloniaHw/AvaloniaHw.csproj" />
+</Solution>
